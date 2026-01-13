@@ -2,11 +2,6 @@
 
 🚀 **Automation-driven Software Developer | E-commerce & Marketplace Integrations**
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdulkadirbulbul&theme=onedark&margin-w=10" />
-  </a>
-</p>
 
 ---
 
@@ -62,17 +57,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadirbulbul&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkadirbulbul&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkadirbulbul&theme=tokyonight" />
-</p>
