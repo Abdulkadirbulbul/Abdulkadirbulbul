@@ -1,34 +1,78 @@
-<!--Title @abdulkadirbulbul-->
-<div align="center">
+# Hi 👋, I'm Abdulkadir Bülbül
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;My+name+is+Kadir+Winchester;A+software+developer+from+Turkey;Welcome!) 
+🚀 **Automation-driven Software Developer | E-commerce & Marketplace Integrations**
 
-</div>
-
-<!--Skill And More Information--> 
-<div align="center">
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=abdulkadirbulbul&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00b3ff&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Kadir Winchester's github stats" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirbulbul&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
-</div> 
-
-<!--Social Media-->  
-<div align="center"> 
- <a href="https://www.youtube.com/@kawinchester" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
-<a href="https://www.linkedin.com/in/abdulkadirbulbul" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.kadirbulbul.com" target="_blank"><img src="https://img.shields.io/badge/-My Web Site-2b2b2b?style=for-the-badge&logo=jekyll&logoColor=fc0"></a>
-<a href="https://www.instagram.com/kadirbulbulcom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/coderbulbul" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
-  
-<!--Total Contributions--> 
-<p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=abdulkadirbulbul&theme=tokyonight_duo&hide_border=true">
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdulkadirbulbul&theme=onedark&margin-w=10" />
+  </a>
 </p>
 
-<!--Visitor count-->   
-<div align="center">
-  <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.deno.dev/:Abdulkadirbulbul:/count.svg" /></p> 
-  <br>
-</div>
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **e-commerce marketplace integrations, stock & price automation, webhook systems**
+- 🌱 Learning **Advanced TypeScript, GraphQL APIs, scalable backend architectures**
+- 👯 Open to collaborate on **open-source automation tools, scraping projects, marketplace integrations**
+- 🤝 Looking for guidance on **scalable system design & performance optimization**
+- 💬 Ask me about **web scraping, Selenium, marketplace APIs, e-commerce automation, data processing**
+- ⚡ Fun fact: **If it’s repetitive, I’ll probably automate it.**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Abdulkadirbulbul" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulkadirbulbul/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.instagram.com/kadirbulbulcom" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://x.com/coderbulbul" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://medium.com/@Abdulkadirbulbul" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" height="40" />
+  </a>
+  <a href="https://www.youtube.com/@KaWinchester" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40" />
+  </a>
+</p>
+
+📫 **Email:** `kadirwinchester25@gmail.com`  
+📝 **Articles:** [https://www.datatistan.com](https://www.datatistan.com)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,nestjs,react,vue,nextjs,express" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=selenium,puppeteer,fastapi,django,flask" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,rabbitmq,sqlite" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,git,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadirbulbul&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkadirbulbul&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkadirbulbul&theme=tokyonight" />
+</p>
