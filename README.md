@@ -40,7 +40,7 @@
 </p>
 
 📫 **Email:** `kadirwinchester25@gmail.com`  
-📝 **Articles:** [https://www.datatistan.com](https://www.datatistan.com)
+📝 **Articles:** [https://www.datatistan.com](https://datatistan.com)
 
 ---
 
